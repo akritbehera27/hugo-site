@@ -29,6 +29,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           personal_token: ${{ secrets.DEPLOY_TOKEN }}
-          external_repository: eon-xyz/eon-xyz.github.io
+          external_repository: eonyx/eonyx.github.io
           publish_branch: main
           publish_dir: ./public
