@@ -1,5 +1,5 @@
 ---
-date: 2025-06-05T19:22:14+05:30
+date: 2025-06-04T19:22:14+05:30
 title: What is Nothing ?
 ---
 ![](https://wallpapers.com/images/hd/void-5sm9tokk2youui90.jpg)
