@@ -1,5 +1,5 @@
 ---
-date: 2025-06-10T20:42:44+05:30
+date: 2025-06-11T20:42:44+05:30
 title: What is the hottest thing in the universe.
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a2/SN1994D.jpg)
