@@ -1,4 +1,4 @@
-<h2 align="center">Eon</h2>
+<h2 align="center">Blitz</h2>
 <img src="screenshot.png" width="100%" />
 <hr><br>
 

@@ -16,5 +16,5 @@ subTitle: "Open source projects created by Akrit Behera"
 
   {{< card link="https://github.com/akritbehera27/10formulas" image="https://raw.githubusercontent.com/akritbehera27/10formulas/main/10formulas.png" title="10 Fromulas" >}}
 
-  {{< card link="https://github.com/akritbehera27/eon" image="https://raw.githubusercontent.com/akritbehera27/eon/main/screenshot.png" title="Eon" >}}
+  {{< card link="https://github.com/akritbehera27/hugo-site" image="https://raw.githubusercontent.com/akritbehera27/hugo-site/refs/heads/main/screenshot.png" title="Blitz" >}}
 {{< /cards >}}

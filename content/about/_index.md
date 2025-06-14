@@ -22,9 +22,8 @@ Whether you’re a regular reader, a fellow writer, or just passing through, you
 > Hello, I'm Akrit Behera, and I am a high schooler from India. I try to develop websites, customize operating systems and research about the topics that peak my curiosity .This website is intended to serve as my primary online base. I wish to write on topics that interest me, such as linux desktop, website development, space exploration, technology, and much more.  
 > You can contact me via my email ` akritbehera27@gmail.com `
 {{< callout type="info" >}}
-  Eon is heavily inspired by [Hextra](https://imfing.github.io/hextra/) and uses , [Hugo](https://gohugo.io/) , [Tailwind CSS](https://tailwindcss.com/) , [Heroicons](https://heroicons.com/) , [Nextra](https://nextra.vercel.app/) , [Next.js](https://nextjs.org/)
+  Blitz is heavily inspired by [Hextra](https://imfing.github.io/hextra/) and uses , [Hugo](https://gohugo.io/) , [Tailwind CSS](https://tailwindcss.com/) , [Heroicons](https://heroicons.com/) , [Nextra](https://nextra.vercel.app/) , [Next.js](https://nextjs.org/)
 {{< /callout >}}
-
 
 > [!CAUTION]
 > All the contents of this website are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
