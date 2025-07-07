@@ -2,7 +2,7 @@
 date: '2025-04-24T12:31:53+05:30'
 title: 'Showcase'
 type: blog
-subTitle: "Open source projects created by Akrit Behera"
+subTitle: "Displaying Innovative Open source projects"
 ---
 &nbsp;
 &nbsp;
